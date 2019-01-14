@@ -1,2 +1,2 @@
-# lethbridge-igem
-Website for the University of Lethbridge iGEM Team. 
+# University of Lethbridge iGEM
+Check us out at: https://chrisaac.github.io/lethbridge-igem/
